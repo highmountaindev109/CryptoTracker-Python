@@ -6,4 +6,4 @@
 python main.py eth
 
 ## Description
-It displays live updates for eth price.
+It displays live updates for eth price
